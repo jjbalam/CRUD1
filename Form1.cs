@@ -1,6 +1,4 @@
-﻿// Integrantes: María Lizeth Del Pino Morales 22887026
-//Karen moguel cruz 22887050
-//Brenda Rosales de Lucio 22887040
+﻿// Integrantes: Joose Julian Balam Ruiz(22887029),Marco Emmanuel Ramirez Cruz(21887056),Roque Farrera Jesus Eduardo ()
 //A5.3- Desarrollo de una aplicacion para la gestion de datos
 //4E
 
