@@ -1,0 +1,10 @@
+C:\Users\josej\source\repos\CRUD1\CRUD1\bin\Debug\CRUD1.exe.config
+C:\Users\josej\source\repos\CRUD1\CRUD1\bin\Debug\CRUD1.exe
+C:\Users\josej\source\repos\CRUD1\CRUD1\bin\Debug\CRUD1.pdb
+C:\Users\josej\source\repos\CRUD1\CRUD1\obj\Debug\CRUD1.csproj.AssemblyReference.cache
+C:\Users\josej\source\repos\CRUD1\CRUD1\obj\Debug\CRUD1.Form1.resources
+C:\Users\josej\source\repos\CRUD1\CRUD1\obj\Debug\CRUD1.Properties.Resources.resources
+C:\Users\josej\source\repos\CRUD1\CRUD1\obj\Debug\CRUD1.csproj.GenerateResource.cache
+C:\Users\josej\source\repos\CRUD1\CRUD1\obj\Debug\CRUD1.csproj.CoreCompileInputs.cache
+C:\Users\josej\source\repos\CRUD1\CRUD1\obj\Debug\CRUD1.exe
+C:\Users\josej\source\repos\CRUD1\CRUD1\obj\Debug\CRUD1.pdb
